@@ -5,6 +5,7 @@
  * @s: pointer to stack
  * @l: line number
  */
+
 void push_handler(stack_t **s, unsigned int l)
 {
 	int n;
