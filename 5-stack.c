@@ -4,6 +4,7 @@
  * push - push an element into stack
  * @n: data to push
  */
+
 void push(int n)
 {
 	stack_t *new = malloc(sizeof(stack_t));
