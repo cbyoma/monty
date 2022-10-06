@@ -5,7 +5,7 @@
  * Description:
  * Uses the line in the moty file
  * and executes the instructions
- * @lines: lines read from the file
+ * @lines: lines read from the files
  */
 
 void parse_instructions(char **lines)
